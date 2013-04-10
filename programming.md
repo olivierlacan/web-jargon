@@ -44,3 +44,11 @@ Example: `"you ain't gonna need it"`
 A non-decimal, positive number, just like in Mathematics.
 
 Example: `42`
+
+### Parlance
+
+## Smell (Code Smell)
+An indication, sometimes indirect, that code may be brittle or dangerous.
+
+## Anti-pattern
+A technique that was proven to cause issues.
