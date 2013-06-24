@@ -47,6 +47,9 @@ Example: `42`
 
 ### Parlance
 
+## Abstraction
+Solving a problem by removing the need to look at the gritty details of the solution, and instead focusing on simpler and more essential components. 
+
 ## Smell (Code Smell)
 An indication, sometimes indirect, that code may be brittle or dangerous.
 
