@@ -45,16 +45,16 @@ A non-decimal, positive number, just like in Mathematics.
 
 Example: `42`
 
-### Parlance
+## Parlance
 
-## Abstraction
+### Abstraction
 Solving a problem by removing the need to look at the gritty details of the solution, and instead focusing on simpler and more essential components. 
 
-## Leaky Abstraction
+### Leaky Abstraction
 An abstraction that sometimes reveals the underlying complexity it attempted to hide, causing confusion.
 
-## Smell (Code Smell)
+### Smell (Code Smell)
 An indication, sometimes indirect, that code may be brittle or dangerous.
 
-## Anti-pattern
+### Anti-pattern
 A technique that was proven to cause issues.
