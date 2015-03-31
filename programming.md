@@ -45,6 +45,11 @@ A non-decimal, positive number, just like in Mathematics.
 
 Example: `42`
 
+## Hash
+A container for associated keys and values. Annoyingly also referred to as a `dictionary`, `hash table`, `hash map`, or `associative array` depending on the programming language and its community.
+
+Exampel: `{ name: "Olivier", hometown: "Paris, France" }`
+
 ## Parlance
 
 ### Abstraction
