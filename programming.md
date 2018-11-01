@@ -63,3 +63,8 @@ An indication, sometimes indirect, that code may be brittle or dangerous.
 
 ### Anti-pattern
 A technique that was proven to cause issues.
+
+### Daemonize
+Start something that will work in the background (as a [daemon][daemon])
+
+[daemon]: https://en.wikipedia.org/wiki/Daemon_(computing)
